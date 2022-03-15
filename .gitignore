@@ -1,3 +1,7 @@
+# add config.py to my .gitignore
+config.py
+
+# add two large csv files to .gitignore
 ratings.csv
 movies_metadata.csv
 
